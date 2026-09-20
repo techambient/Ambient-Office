@@ -1,0 +1,6 @@
+{
+  "name": "Ambient Office",
+  "description": "Professional web-based office suite with multi-tab support for documents (.docx/.aw), spreadsheets (.xlsx/.as), and presentations (.pptx/.ap), with real-time editing, formatting tools, and export to Office, PDF, and native formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
